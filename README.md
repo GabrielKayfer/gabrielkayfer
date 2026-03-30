@@ -1,4 +1,6 @@
-## Olá! Eu sou Gabriel Kayfer, Desenvolvedor Full Stack Java!
+<div align="center">
+  <h1> ## Olá! Eu sou Gabriel Kayfer, Desenvolvedor Full Stack Java! </h1>
+</div>
 
 <div align="center">
   <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
